@@ -1,0 +1,15 @@
+[
+    {
+      "name": "BabXRecorder",
+      "version": "1.0.0",
+      "downloadUrl": "https://your-download-link.com/BabXRecorder.zip",
+      "exeName": "BabXRecorder.exe"
+    },
+    {
+      "name": "BabXEditor",
+      "version": "1.2.0",
+      "downloadUrl": "https://your-download-link.com/BabXEditor.zip",
+      "exeName": "BabXEditor.exe"
+    }
+  ]
+  
