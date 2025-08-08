@@ -5,13 +5,21 @@
     "downloadUrl": "https://drive.usercontent.google.com/download?id=10HcG4vO2mhezx2AJkoGr71mDWNX0Ky7h&export=download&authuser=0&confirm=t&uuid=a79c5809-024d-492d-8819-87471f0eb7c9&at=AN8xHoqB4amaqrEX8iOtuKvItxz7%3A1754648039243 ",
     "exeName": "BabXRecorder 1.0.1.exe",
     "imageUrl": "https://i.imgur.com/Si075mV.png"
-  },
-
-  {
-    "name": "test",
-    "version": "1.0.0",
-    "downloadUrl": "https://drive.usercontent.google.com/download?id=10HcG4vO2mhezx2AJkoGr71mDWNX0Ky7h&export=download&authuser=0&confirm=t&uuid=a79c5809-024d-492d-8819-87471f0eb7c9&at=AN8xHoqB4amaqrEX8iOtuKvItxz7%3A1754648039243 ",
-    "exeName": "BabXRecorder 1.0.1.exe",
-    "imageUrl": "https://i.imgur.com/Si075mV.png"
   }
+]
+
+  "ads": [
+    {
+      "title": "New Product",
+      "description": "Check out our amazing new product!",
+      "imageUrl": "https://example.com/ad1.jpg",
+      "link": "https://example.com/product"
+    },
+    {
+      "title": "Special Offer",
+      "description": "Limited time discount on our premium service",
+      "imageUrl": "https://example.com/ad2.jpg",
+      "link": "https://example.com/offer"
+    }
+  ]
 ]
